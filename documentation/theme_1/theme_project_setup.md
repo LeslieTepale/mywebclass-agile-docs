@@ -9,4 +9,8 @@ The General Data Protection Regulation (GDPR) is a regulation in EU law that gov
 
 
 ## Test plan
-How will this be tested?
+### Objective:
+Objective: To ensure that the website is compliant with GDPR regulations and that user data is being collected and processed in a secure and transparent manner.
+
+### Test Environment:
+The test environment should simulate actual user interactions with the website, including the use of various browsers and devices. A test user account should be created to allow for testing of user data access and deletion requests.
