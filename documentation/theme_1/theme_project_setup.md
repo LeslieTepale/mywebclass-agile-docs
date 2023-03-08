@@ -7,9 +7,6 @@ The General Data Protection Regulation (GDPR) is a regulation in EU law that gov
 * [Ensuring compliance with copyright laws.](initiatives/initiative_devops.md)
 * [Data tracking with google analytics compliance](initiatives/initiative_webpage_template.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
 How will this be tested?
