@@ -1,6 +1,8 @@
 # Copyright Compliance
 
 ## Epic: Copyright Policy
+As a website owner, I want to create a copyright policy that complies with copyright regulations, so that I can protect my intellectual property and avoid legal issues.
+
 
 ### User Stories
 1.As a user, I want to be informed about the copyright policy of the website, so that I can avoid infringing on intellectual property rights.  
