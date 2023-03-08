@@ -1,6 +1,6 @@
 # Copyright Compliance
 
-##Epic: Copyright Policy
+## Epic: Copyright Policy
 
 ### User Stories
 1.As a user, I want to be informed about the copyright policy of the website, so that I can avoid infringing on intellectual property rights.
