@@ -133,6 +133,7 @@ review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
 [Theme 1](documentation/theme_1/theme_project_setup.md)
+[Theme 2](documentation/theme_2/theme_build.md)
 
 ## Release Schedule
 
