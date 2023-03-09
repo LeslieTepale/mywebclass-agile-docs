@@ -4,9 +4,9 @@ Technical performance and security are critical aspects of any website, particul
 
 ## Initiative(s)
 
-* [Website Infrastructure and Maintenance.](initiatives/initiative_gdpr.md)
-* [Website Performance Optimization.](initiatives/initiative_copyright.md)
-* [Website Security and Privacy.](initiatives/initiative_googleanalytics.md)
+* [Website Infrastructure and Maintenance.](initiatives/initiative_infrastructure.md)
+* [Website Performance Optimization.](initiatives/initiative_performance.md)
+* [Website Security and Privacy.](initiatives/initiative_security.md)
 
 
 ## Test plan
